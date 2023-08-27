@@ -93,17 +93,17 @@ const questions = [
 const writeToFile = ({ title, description, installation, usage, license, contributing, test, github, email }) =>
 `#${title}
 
-##Table of Contents
+## Table of Contents
 
-Descriptions
-Installations
-Usage
-License
-Contributing
-Tests
+Descriptions<br>
+Installations<br>
+Usage<br>
+License<br>
+Contributing<br>
+Tests<br>
 Questions
 
-##Description
+## Description
 ${description}
 
 ## Installation
@@ -122,8 +122,8 @@ ${contributing}
 ${test}
 
 ## Questions
-${github}
-${email}
+Github Username: ${github}
+Email: ${email}
 
 `;
 
