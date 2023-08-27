@@ -1,6 +1,6 @@
 #s
 
-##Table of Contents
+## Table of Contents
 
 Descriptions
 Installations
@@ -10,7 +10,7 @@ Contributing
 Tests
 Questions
 
-##Description
+## Description
 d
 
 ## Installation
